@@ -30,3 +30,21 @@ An interactive Power BI dashboard to analyze sales, profit, returns, shipping, a
 - Sales People Contribution & Delegation
 - Customer Segments & Product Preferences
 - Geographic Sales Distribution (States & Cities)
+
+## 🖼️ Dashboard Preview
+
+### Performance Overview
+![Overview](screenshots/overview.png)
+
+### Shipping & Discounts Impact
+![Shipping Impact](screenshots/suppliers.png)
+
+### Customer & Region Insights
+![Customer Region](screenshots/customers.png)
+
+### Region Insights
+![Region](screenshots/Region.png)
+
+
+📄 [Download Dashboard PDF](Retail-Supply-Chain-Sales.pdf)
+
