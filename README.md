@@ -37,13 +37,13 @@ An interactive Power BI dashboard to analyze sales, profit, returns, shipping, a
 ![Overview](ScreenShots/overview.png)
 
 ### Product
-![Overview](ScreenShots/Product.png)
+![Product](ScreenShots/Product.png)
 
 ### Shipping & Discounts Impact
 ![Shipping Impact](ScreenShots/suppliers.png)
 
 ### Customer 
-![Customer Region](ScreenShots/customers.png)
+![Customer](ScreenShots/Customers.png)
 
 ### Region Insights
 ![Region](ScreenShots/Region.png)
