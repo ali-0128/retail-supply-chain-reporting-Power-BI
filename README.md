@@ -34,16 +34,16 @@ An interactive Power BI dashboard to analyze sales, profit, returns, shipping, a
 ## 🖼️ Dashboard Preview
 
 ### Performance Overview
-![Overview](screenshots/overview.png)
+![Overview](screenShots/overview.png)
 
 ### Shipping & Discounts Impact
-![Shipping Impact](screenshots/suppliers.png)
+![Shipping Impact](screenShots/suppliers.png)
 
 ### Customer & Region Insights
-![Customer Region](screenshots/customers.png)
+![Customer Region](screenShots/customers.png)
 
 ### Region Insights
-![Region](screenshots/Region.png)
+![Region](screenShots/Region.png)
 
 
 📄 [Download Dashboard PDF](Retail-Supply-Chain-Sales.pdf)
