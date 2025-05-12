@@ -14,13 +14,6 @@ An interactive Power BI dashboard to analyze sales, profit, returns, shipping, a
 
 ---
 
-## 🛠 Tools
-
-- **Tool:** Power BI (Power Query, DAX, Visualizations)
-- **Visuals Used:** Bar charts, pie charts, KPIs, line charts, maps, scatter plots
-
----
-
 ## 📊 Dashboard Sections
 
 - Sales & Profit Performance Overview
