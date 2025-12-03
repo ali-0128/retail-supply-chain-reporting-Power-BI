@@ -1,46 +1,53 @@
-# 📦 Retail Sales & Supply Chain Dashboard – Power BI
+# Sales Performance Dashboard
 
-An interactive Power BI dashboard to analyze sales, profit, returns, shipping, and customer behavior across regions and product categories in a retail business.
+##  Project Overview
+Interactive Power BI dashboard analyzing $2.3M in sales across 793 customers, providing insights into customer behavior, product performance, and regional trends.
 
----
+##  Key Insights
+- Technology category drives 51% of total profit
+- Customer Lifetime Value: $2,900
+- West region leads with 37.86% profit contribution
+- Exceptional 0.08% return rate
 
-## 🎯 Project Objective
+##  Tools & Technologies
+- Microsoft Power BI
+- DAX (Data Analysis Expressions)
+- Power Query
 
-- Monitor overall sales, profit, and quantity performance across months
-- Understand the impact of returns, discounts, and shipping modes on profitability
-- Evaluate segment and product category performance
-- Analyze retail employee performance and customer preferences
-- Identify regional strengths and weaknesses using geographical insights
+##  Dashboard Features
+- 4 interactive analysis pages
+- 20+ dynamic visualizations
+- Real-time filtering by Region, Segment, Month
+- KPI cards for key metrics
 
----
+##  Project Structure
+- `/Dashboard` - Power BI files
+- `/Report` - Detailed analysis report
+- `/Data` - datasets
+- `/Images` - Dashboard screenshots
 
-## 📊 Dashboard Sections
+##  Dashboard Preview
+![Product](Product_and_Loss_Analysis.png)
 
-- Sales & Profit Performance Overview
-- Category & Sub-Category Breakdown
-- Returns & Discount Analysis
-- Shipping Impact on Profit
-- Sales People Contribution & Delegation
-- Customer Segments & Product Preferences
-- Geographic Sales Distribution (States & Cities)
+![Shipping](Delegate_Performance.png)
 
-## 🖼️ Dashboard Preview
+![Customer](Customer_Performance.png)
 
-### Performance Overview
-![Overview](ScreenShots/overview.png)
-
-### Product
-![Product](ScreenShots/Product.png)
-
-### Shipping & Discounts Impact
-![Shipping Impact](ScreenShots/suppliers.png)
-
-### Customer 
-![Customer](ScreenShots/Customers.png)
-
-### Region Insights
-![Region](ScreenShots/Region.png)
+![Geograph](Geographical_Analysis.png)
 
 
-📄 [Download Dashboard PDF](Retail-Supply-Chain-Sales.pdf)
 
+📄 [Download Dashboard PDF]([Sales%20Performance%20Analysis%20Dashboard.pdf])
+
+##  Full Report
+View the complete analysis report [here]([Sales%20Performance%20Analysis%20Report.pdf])
+
+##  Skills Demonstrated
+- Data cleaning and transformation
+- Advanced DAX calculations (CLV, profit margins, YoY growth)
+- Interactive dashboard design
+- Business intelligence insights
+- Data storytelling
+
+##  Contact
+[Ali Rabie] | [[LinkedIn](https://www.linkedin.com/in/ali-r-ba4086342/)] | [alirabie0128@gmail.com]
