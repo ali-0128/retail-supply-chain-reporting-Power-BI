@@ -50,4 +50,5 @@ View the complete analysis report [here]([Sales%20Performance%20Analysis%20Repor
 - Data storytelling
 
 ##  Contact
-[Ali Rabie] | [[LinkedIn](https://www.linkedin.com/in/ali-r-ba4086342/)] | [alirabie0128@gmail.com]
+Ali Rabie | [LinkedIn](https://www.linkedin.com/in/ali-r-ba4086342/) | alirabie0128@gmail.com
+
